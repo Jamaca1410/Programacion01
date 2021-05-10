@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T23:54:44.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.259" etag="Br_Id7lijUzehH9pCXM7" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T23:55:32.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.259" etag="fV6suE_dL-73P0_JVeJX" version="14.6.11" type="github">
   <diagram id="4YPixnLxp1FN9uVwb-nW" name="Page-1">
     <mxGraphModel dx="1381" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="c35HZj-ocslpOqt19iK6-21" value="Transferencia()&lt;br&gt;Crédito()&lt;br&gt;Retiro()&lt;br&gt;Deposito()&lt;br&gt;Préstamo()" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="c35HZj-ocslpOqt19iK6-20" vertex="1">
           <mxGeometry width="170" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="aVe7aL-DDRx6DKMzLUse-5" value="Javier Carrillo 10138957&lt;br&gt;Marco Aurelio 10137145&lt;br&gt;Edgar Lantigua 10136396" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aVe7aL-DDRx6DKMzLUse-5" value="Javier Carrillo 10138957&lt;br&gt;Marco Vargas 10137145&lt;br&gt;Edgar Lantigua 10136396" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="20" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
