@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Universidad\\P1\\Programas\\Cuenta Bancaria\\Cuenta Bancaria\\Cuenta Bancaria.csproj": {}
+    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj": {}
   },
   "projects": {
-    "E:\\Universidad\\P1\\Programas\\Cuenta Bancaria\\Cuenta Bancaria\\Cuenta Bancaria.csproj": {
+    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Universidad\\P1\\Programas\\Cuenta Bancaria\\Cuenta Bancaria\\Cuenta Bancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj",
         "projectName": "Cuenta Bancaria",
-        "projectPath": "E:\\Universidad\\P1\\Programas\\Cuenta Bancaria\\Cuenta Bancaria\\Cuenta Bancaria.csproj",
-        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "E:\\Universidad\\P1\\Programas\\Cuenta Bancaria\\Cuenta Bancaria\\obj\\",
+        "projectPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj",
+        "packagesPath": "C:\\Users\\Javier Carrillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Javier Carrillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +25,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net50": {
             "projectReferences": {}
           }
         },
@@ -41,24 +36,13 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
