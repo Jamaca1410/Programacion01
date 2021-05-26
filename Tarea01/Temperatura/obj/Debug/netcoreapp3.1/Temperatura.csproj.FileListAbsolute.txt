@@ -1,0 +1,13 @@
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Tarea01\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.genruntimeconfig.cache

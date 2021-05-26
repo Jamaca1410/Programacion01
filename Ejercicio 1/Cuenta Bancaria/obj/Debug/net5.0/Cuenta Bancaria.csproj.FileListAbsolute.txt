@@ -14,3 +14,19 @@ E:\Universidad\P1\Programas\Cuenta Bancaria\Cuenta Bancaria\obj\Debug\net5.0\Cue
 E:\Universidad\P1\Programas\Cuenta Bancaria\Cuenta Bancaria\obj\Debug\net5.0\ref\Cuenta Bancaria.dll
 E:\Universidad\P1\Programas\Cuenta Bancaria\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.pdb
 E:\Universidad\P1\Programas\Cuenta Bancaria\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.genruntimeconfig.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\Cuenta Bancaria.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\Cuenta Bancaria.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\Cuenta Bancaria.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\Cuenta Bancaria.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\Cuenta Bancaria.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\ref\Cuenta Bancaria.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\bin\Debug\net5.0\Cuenta Bancaria.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\ref\Cuenta Bancaria.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Ejercicio 1\Cuenta Bancaria\obj\Debug\net5.0\Cuenta Bancaria.genruntimeconfig.cache

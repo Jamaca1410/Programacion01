@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj": {}
+    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Tarea01\\Temperatura\\Temperatura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj": {
+    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Tarea01\\Temperatura\\Temperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj",
-        "projectName": "Cuenta Bancaria",
-        "projectPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\Cuenta Bancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Tarea01\\Temperatura\\Temperatura.csproj",
+        "projectName": "Temperatura",
+        "projectPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Tarea01\\Temperatura\\Temperatura.csproj",
         "packagesPath": "C:\\Users\\Javier Carrillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Ejercicio 1\\Cuenta Bancaria\\obj\\",
+        "outputPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Tarea01\\Temperatura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier Carrillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
