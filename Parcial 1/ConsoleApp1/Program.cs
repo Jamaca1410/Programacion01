@@ -34,11 +34,11 @@ namespace ConsoleApp1
                     Console.WriteLine("Input Invalido");
                     goto edad1;
                 }
-                if (edad < 0 || edad > 200) 
+                if (edad < 1 || edad > 200) 
                 {
                     Console.WriteLine("La edad no es valida.");
                 }
-            } while (edad < 0 || edad > 200);
+            } while (edad < 1 || edad > 200);
 
             //CEDULA
             if (edad > 15)
@@ -47,7 +47,7 @@ namespace ConsoleApp1
                 {
                     Console.ReadLine();
                     Console.Clear();
-                    Console.WriteLine("Ingrese la cedula:");
+                    Console.WriteLine("Ingrese los 11 digitos de la cedula(Sin guion):");
                     try 
                     {
                         cedula = long.Parse(Console.ReadLine());
@@ -69,7 +69,7 @@ namespace ConsoleApp1
             {
                 Console.ReadLine();
                 Console.Clear();
-                Console.WriteLine("Ingrese el sexo:");
+                Console.WriteLine("Ingrese el sexo, Masculino(M) o Femenino(F):");
                 try 
                 {
                     sexo = char.Parse(Console.ReadLine());
@@ -78,6 +78,10 @@ namespace ConsoleApp1
                 {
                     Console.WriteLine("Input Invalido");
                     goto sexo1;
+                }
+                if (sexo != 'M' && sexo != 'F' && sexo != 'f' && sexo != 'm')
+                {
+                    Console.WriteLine("Solo se puede ingresar F o M.");
                 }
             } while (sexo != 'M' && sexo!= 'F' && sexo != 'f' && sexo != 'm');
 
