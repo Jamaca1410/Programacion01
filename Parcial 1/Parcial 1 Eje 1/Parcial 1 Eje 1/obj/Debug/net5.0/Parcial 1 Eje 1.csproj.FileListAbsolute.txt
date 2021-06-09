@@ -14,3 +14,19 @@ E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Par
 E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\ref\Parcial 1 Eje 1.dll
 E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.pdb
 E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.genruntimeconfig.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\ref\Parcial 1 Eje 1.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\ref\Parcial 1 Eje 1.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.genruntimeconfig.cache

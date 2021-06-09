@@ -10,9 +10,10 @@ namespace Parcial_1_Eje_1
         char sexo;
         string nombre;
         bool flag1 = true;
-        public void mostrar()
+
+        public Persona() // Metodo por defecto
         {
-           do //NOMBRE
+            do //NOMBRE
             {
                 Console.WriteLine("Ingrese la nombre:");
                 nombre = Console.ReadLine();
@@ -90,7 +91,10 @@ namespace Parcial_1_Eje_1
                 }
             } while (sexo != 'M' && sexo != 'F' && sexo != 'f' && sexo != 'm');
 
-            Console.Clear();
+            Console.Clear();     
+        }
+        public void mostrar() // Metodo mostrar
+        {
             if (edad > 15)
             {
                 Console.WriteLine("La cedula del ciudadano es: {0}", cedula);
@@ -99,7 +103,7 @@ namespace Parcial_1_Eje_1
             Console.WriteLine("La edad del ciudadano es: {0}", edad);
             Console.WriteLine("La sexo del ciudadano es: {0}", sexo);
         }
-        public void MayorEdad()
+        public void MayorEdad() // Metodo mayor de edad
         {
             Console.WriteLine("\nEs mayor de edad:");
             if (edad > 17)
