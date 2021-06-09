@@ -1,0 +1,16 @@
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.exe
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.deps.json
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.runtimeconfig.json
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.runtimeconfig.dev.json
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.dll
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\ref\Parcial 1 Eje 1.dll
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.pdb
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.csprojAssemblyReference.cache
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.AssemblyInfoInputs.cache
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.AssemblyInfo.cs
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.csproj.CoreCompileInputs.cache
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.dll
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\ref\Parcial 1 Eje 1.dll
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.pdb
+E:\Universidad\P1\Programas\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.genruntimeconfig.cache
