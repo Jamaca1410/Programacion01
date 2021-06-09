@@ -11,7 +11,7 @@ namespace Parcial_1_Eje_1
         string nombre;
         bool flag1 = true;
 
-        public Persona() // Metodo por defecto
+        public Persona() // Constructor por defecto
         {
             do //NOMBRE
             {
@@ -26,7 +26,7 @@ namespace Parcial_1_Eje_1
             } while (Regex.IsMatch(nombre, "[0-9!~`@#$%^&*()_+=]"));
 
         //EDAD
-        edad1: do
+            do
             {
                 Console.ReadLine();
                 Console.Clear();
@@ -38,18 +38,17 @@ namespace Parcial_1_Eje_1
                 catch
                 {
                     Console.WriteLine("Input Invalido");
-                    goto edad1;
                 }
-                if (edad < 0 || edad > 200)
+                if (edad < 1 || edad > 200)
                 {
                     Console.WriteLine("La edad no es valida.");
                 }
-            } while (edad < 0 || edad > 200);
+            } while (edad < 1 || edad > 200);
 
             //CEDULA
             if (edad > 15)
             {
-            Cedula1: do
+            do
                 {
                     Console.ReadLine();
                     Console.Clear();
@@ -61,7 +60,7 @@ namespace Parcial_1_Eje_1
                     catch
                     {
                         Console.WriteLine("Input Invalido");
-                        goto Cedula1;
+                        
                     }
                     if (cedula < 9999999999 || cedula >= 99999999999)
                     {
@@ -71,7 +70,7 @@ namespace Parcial_1_Eje_1
             }
 
         //SEXO
-        sexo1: do
+        do
             {
                 Console.ReadLine();
                 Console.Clear();
@@ -83,7 +82,6 @@ namespace Parcial_1_Eje_1
                 catch
                 {
                     Console.WriteLine("Input Invalido");
-                    goto sexo1;
                 }
                 if (sexo != 'M' && sexo != 'F' && sexo != 'f' && sexo != 'm')
                 {
