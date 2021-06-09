@@ -10,7 +10,7 @@ namespace ConsoleApp2
         double precioL;
         public Gasolina() 
         {         
-            Console.WriteLine("Digite el precio por litro:");
+            Console.WriteLine("Digite el precio por litro en US DOLLAR:");
         Precio1: do
             {
                 try
@@ -54,7 +54,7 @@ namespace ConsoleApp2
             precioL = litros * precio;
             Console.WriteLine("\nEl precio por litro es de: {0:f3}", precio);
             Console.WriteLine("La conversion a litros es: {0:f3}", litros);
-            Console.WriteLine("El precio a pagar es de: {0:f3}", precioL);
+            Console.WriteLine("El precio a pagar es de: ${0:f3} USD", precioL);
         }
     }
     class Program
