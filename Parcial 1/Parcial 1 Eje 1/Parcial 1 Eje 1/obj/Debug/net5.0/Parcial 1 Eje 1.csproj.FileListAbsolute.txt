@@ -30,3 +30,19 @@ C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Pa
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\ref\Parcial 1 Eje 1.dll
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.pdb
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.exe
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.deps.json
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.runtimeconfig.json
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.runtimeconfig.dev.json
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.dll
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\ref\Parcial 1 Eje 1.dll
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\bin\Debug\net5.0\Parcial 1 Eje 1.pdb
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.dll
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\ref\Parcial 1 Eje 1.dll
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.pdb
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 1\Parcial 1 Eje 1\Parcial 1 Eje 1\obj\Debug\net5.0\Parcial 1 Eje 1.genruntimeconfig.cache
