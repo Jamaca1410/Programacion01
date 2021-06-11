@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio_bobo_1
+namespace Ejercicio_bono_1
 {
     public class telefono
     {

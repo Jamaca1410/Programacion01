@@ -11,3 +11,16 @@ C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bo
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.dll
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.pdb
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\bin\Debug\netcoreapp3.1\Ejercicio bobo 1.exe
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\bin\Debug\netcoreapp3.1\Ejercicio bobo 1.deps.json
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\bin\Debug\netcoreapp3.1\Ejercicio bobo 1.runtimeconfig.json
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\bin\Debug\netcoreapp3.1\Ejercicio bobo 1.runtimeconfig.dev.json
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\bin\Debug\netcoreapp3.1\Ejercicio bobo 1.dll
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\bin\Debug\netcoreapp3.1\Ejercicio bobo 1.pdb
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.dll
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.pdb
+C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejercicio bobo 1\obj\Debug\netcoreapp3.1\Ejercicio bobo 1.genruntimeconfig.cache
