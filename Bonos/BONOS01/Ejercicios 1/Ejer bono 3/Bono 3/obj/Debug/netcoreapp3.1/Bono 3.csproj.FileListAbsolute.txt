@@ -1,0 +1,13 @@
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\bin\Debug\netcoreapp3.1\Bono 3.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\bin\Debug\netcoreapp3.1\Bono 3.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\bin\Debug\netcoreapp3.1\Bono 3.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\bin\Debug\netcoreapp3.1\Bono 3.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\bin\Debug\netcoreapp3.1\Bono 3.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\bin\Debug\netcoreapp3.1\Bono 3.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Bonos\BONOS01\Ejercicios 1\Ejer bono 3\Bono 3\obj\Debug\netcoreapp3.1\Bono 3.genruntimeconfig.cache
