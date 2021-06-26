@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\BONOS01\\Ejercicios 1\\Ejercicio bobo 1\\Ejercicio bobo 1.csproj": {}
+    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\Ejr Bono poli\\Ejercicio Poli BONO\\Ejercicio Poli BONO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\BONOS01\\Ejercicios 1\\Ejercicio bobo 1\\Ejercicio bobo 1.csproj": {
+    "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\Ejr Bono poli\\Ejercicio Poli BONO\\Ejercicio Poli BONO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\BONOS01\\Ejercicios 1\\Ejercicio bobo 1\\Ejercicio bobo 1.csproj",
-        "projectName": "Ejercicio bobo 1",
-        "projectPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\BONOS01\\Ejercicios 1\\Ejercicio bobo 1\\Ejercicio bobo 1.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\Ejr Bono poli\\Ejercicio Poli BONO\\Ejercicio Poli BONO.csproj",
+        "projectName": "Ejercicio Poli BONO",
+        "projectPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\Ejr Bono poli\\Ejercicio Poli BONO\\Ejercicio Poli BONO.csproj",
         "packagesPath": "C:\\Users\\Javier Carrillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\BONOS01\\Ejercicios 1\\Ejercicio bobo 1\\obj\\",
+        "outputPath": "C:\\Users\\Javier Carrillo\\Desktop\\PUCMM ITT\\AÑO 2\\Periodo 3\\P1\\Programacion01\\Bonos\\Ejr Bono poli\\Ejercicio Poli BONO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier Carrillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
