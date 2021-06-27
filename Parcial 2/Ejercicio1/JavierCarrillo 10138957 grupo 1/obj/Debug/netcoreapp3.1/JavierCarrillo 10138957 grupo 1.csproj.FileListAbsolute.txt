@@ -11,3 +11,16 @@ C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Pa
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcia2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.dll
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcia2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.pdb
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcia2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.genruntimeconfig.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\bin\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\bin\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\bin\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\bin\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\bin\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\bin\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\obj\Debug\netcoreapp3.1\JavierCarrillo 10138957 grupo 1.genruntimeconfig.cache
