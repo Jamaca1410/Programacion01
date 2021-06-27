@@ -100,7 +100,7 @@ namespace Ejercicio_2
              {
                 do
                 {
-                    Console.WriteLine("Ingrese la longitud del ladoa superior:");
+                    Console.WriteLine("Ingrese la longitud del lado superior:");
                     ladosup = double.Parse(Console.ReadLine());
                     if (ladosup < 1)
                     {

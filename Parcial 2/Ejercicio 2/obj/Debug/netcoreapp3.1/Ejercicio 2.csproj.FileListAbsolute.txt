@@ -11,3 +11,16 @@ C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Pa
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.dll
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.pdb
 C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 1\Parcial 1 Eje 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.genruntimeconfig.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\Parcial 2\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.genruntimeconfig.cache
