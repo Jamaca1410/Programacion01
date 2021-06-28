@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,4 +6,7 @@
     <RootNamespace>JavierCarrillo_10138957_grupo_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\edgar\OneDrive\Documentos\GitHub\Programacion01\Parcial 2\Ejercicio1\JavierCarrillo 10138957 grupo 1\Program.cs" Link="Parcial 2 Ejercicio 1.cs"/>
+  </ItemGroup>
 </Project>

@@ -8,15 +8,23 @@ namespace JavierCarrillo_10138957_grupo_1
         public float precio;
         public Publicacion()
         {
+            titulo:
+            titulo = string.Empty;
             Console.WriteLine("Ingrese el titulo:");
             titulo = Console.ReadLine();
+            if(titulo==string.Empty)
+            {
+                Console.WriteLine("Introduzca un nombre valido.\n");
+                Console.ReadKey();
+                goto titulo;
+            }
         precio11: try
             {
                 do
                 {
                     Console.WriteLine("Ingrese el precio:");
                     precio = float.Parse(Console.ReadLine());
-                    if (precio < 1)
+                    if (precio < 0)
                     {
                         Console.WriteLine("El precio debe ser un numero positivo.");
                     }
@@ -49,7 +57,7 @@ namespace JavierCarrillo_10138957_grupo_1
                     paginas = int.Parse(Console.ReadLine());
                     if (paginas < 1)
                     {
-                        Console.WriteLine("El numero de paginas debe ser positivo.");
+                        Console.WriteLine("El numero de paginas debe ser mayor de 0.");
                     }
                 } while (paginas < 1);
             }
@@ -78,7 +86,7 @@ namespace JavierCarrillo_10138957_grupo_1
                     tiempo = float.Parse(Console.ReadLine());
                     if (tiempo < 1)
                     {
-                        Console.WriteLine("El tiempo debe ser un numero positivo.");
+                        Console.WriteLine("El tiempo debe ser mayor que 0.");
                     }
                 } while (tiempo < 1);
             }
@@ -122,7 +130,7 @@ namespace JavierCarrillo_10138957_grupo_1
                 {
                     do
                     {
-                        Console.WriteLine("Desea ingresar mas datos? (S/n)");
+                        Console.WriteLine("Desea ingresar mas datos? (S/N)");
                         flag = char.Parse(Console.ReadLine());
                         if (flag != 'n' && flag != 'N' && flag != 's' && flag != 'S')
                         {
@@ -136,6 +144,7 @@ namespace JavierCarrillo_10138957_grupo_1
                     goto flag1;
                 }                                        
                 Console.Clear();
+                Console.WriteLine("Gracias por utilizar nuestros servicios.");
             } while (flag != 'n' && flag != 'N');                       
         }
     }
