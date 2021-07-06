@@ -1,0 +1,13 @@
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\bin\Debug\netcoreapp3.1\Foro01.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\bin\Debug\netcoreapp3.1\Foro01.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\bin\Debug\netcoreapp3.1\Foro01.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\bin\Debug\netcoreapp3.1\Foro01.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\bin\Debug\netcoreapp3.1\Foro01.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\bin\Debug\netcoreapp3.1\Foro01.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FORO01\Foro01\obj\Debug\netcoreapp3.1\Foro01.genruntimeconfig.cache
