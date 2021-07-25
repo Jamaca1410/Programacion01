@@ -1,0 +1,66 @@
+using System;
+
+namespace Final
+{
+    // base interface 
+    interface burger
+    {
+        string HBurger();
+    }
+    // concrete implementation
+    class BurgerKing : burger
+    {
+        public string HBurger()
+        {
+            return "Hamburguesa normal.";
+        }
+    }
+    // base decorator
+    class burgerDeco : burger
+    {
+        private burger _hambur;
+        public burgerDeco(burger hambur)
+        {
+            _hambur = hambur;
+        }
+        public virtual string HBurger()
+        {
+            return _hambur.HBurger();
+        }
+    } 
+    // concrete decorator (bacon)
+    class baconDeco : burgerDeco
+    {
+        public baconDeco(burger hambur) : base(hambur) {}
+        public override string HBurger()
+        {
+            string type = base.HBurger();
+            type += "\r\n BACON EXTRA";
+            return type;
+        }
+    }
+    // concrete decorator (cebolla)
+    class ceboDeco : burgerDeco
+    {
+        public ceboDeco(burger hambur) : base(hambur) {}
+        public override string HBurger()
+        {
+            string type = base.HBurger();
+            type += "\r\n CEBOLLA EXTRA";
+            return type;
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           burger hamburguesa = new BurgerKing();
+           burger baconDecorator = new baconDeco(hamburguesa);
+           burger ceboDecorator = new ceboDeco(hamburguesa);
+           //Primer ingrediente extra
+           Console.WriteLine(baconDecorator.HBurger());
+           //Segundo ingrediente extra
+           Console.WriteLine(ceboDecorator.HBurger());
+        }
+    }
+}
