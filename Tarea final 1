@@ -3,12 +3,12 @@ using System;
 namespace Final
 {
     // base interface 
-    interface burger
+    interface IBurger
     {
         string HBurger();
     }
     // concrete implementation
-    class BurgerKing : burger
+    class BurgerKing : IBurger
     {
         public string HBurger()
         {
@@ -16,10 +16,10 @@ namespace Final
         }
     }
     // base decorator
-    class burgerDeco : burger
+    class BurgerDeco : IBurger
     {
-        private burger _hambur;
-        public burgerDeco(burger hambur)
+        private readonly IBurger _hambur;
+        public BurgerDeco(IBurger hambur)
         {
             _hambur = hambur;
         }
@@ -27,11 +27,11 @@ namespace Final
         {
             return _hambur.HBurger();
         }
-    } 
+    }
     // concrete decorator (bacon)
-    class baconDeco : burgerDeco
+    class BaconDeco : BurgerDeco
     {
-        public baconDeco(burger hambur) : base(hambur) {}
+        public BaconDeco(IBurger hambur) : base(hambur) { }
         public override string HBurger()
         {
             string type = base.HBurger();
@@ -40,9 +40,9 @@ namespace Final
         }
     }
     // concrete decorator (cebolla)
-    class ceboDeco : burgerDeco
+    class CeboDeco : BurgerDeco
     {
-        public ceboDeco(burger hambur) : base(hambur) {}
+        public CeboDeco(IBurger hambur) : base(hambur) { }
         public override string HBurger()
         {
             string type = base.HBurger();
@@ -52,15 +52,15 @@ namespace Final
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-           burger hamburguesa = new BurgerKing();
-           burger baconDecorator = new baconDeco(hamburguesa);
-           burger ceboDecorator = new ceboDeco(hamburguesa);
-           //Primer ingrediente extra
-           Console.WriteLine(baconDecorator.HBurger());
-           //Segundo ingrediente extra
-           Console.WriteLine(ceboDecorator.HBurger());
+            IBurger hamburguesa = new BurgerKing();
+            IBurger baconDecorator = new BaconDeco(hamburguesa);
+            IBurger ceboDecorator = new CeboDeco(hamburguesa);
+            //Primer ingrediente extra
+            Console.WriteLine(baconDecorator.HBurger());
+            //Segundo ingrediente extra
+            Console.WriteLine(ceboDecorator.HBurger());
         }
     }
 }
