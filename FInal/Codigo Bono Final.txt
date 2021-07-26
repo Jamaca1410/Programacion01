@@ -1,0 +1,58 @@
+using System;
+using MySql.Data.MySqlClient;
+
+namespace FinalBono
+{
+    class Program
+    {
+        static string connection = "SERVER=localhost; PORT = 3306; uid = root; DATABASE=estudiantes; charset = utf8; sslMode = none";
+        static MySqlConnection sqlcon = new MySqlConnection(connection);
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Connectando a MySql");
+            using(sqlcon)
+            {
+                try
+                 
+                {
+                    sqlcon.Open();
+                    Console.WriteLine("Connection done " + sqlcon.State.ToString() + Environment.NewLine);
+
+                    MySqlCommand command = sqlcon.CreateCommand();
+                    command.CommandType = System.Data.CommandType.Text;
+                    command.CommandText = "Select * from Estudiante";
+
+                    MySqlDataReader reader = command.ExecuteReader();
+                    var data = "[Estudianteid]\t[Nombre]\t[Apellido]\t[Sexo]\t[Direccion]\n";
+
+                    
+                    if(reader.HasRows)
+                    {
+                        while(reader.Read())
+                        {
+                            data += reader.GetInt32(0) + "\t" + reader.GetString(1) + "\t" + reader.GetString(2) + "\t" + reader.GetChar(3) + "\t"+ reader.GetString(4) + Environment.NewLine;
+                        }
+                        Console.WriteLine(data);
+                    }
+                    else
+                    {
+                        Console.WriteLine("TABLA VACIA");                        
+                    }
+                    reader.Close();
+
+                    sqlcon.Close();
+                    Console.WriteLine("Connection done " + sqlcon.State.ToString() + Environment.NewLine);
+                }
+                catch(MySql.Data.MySqlClient.MySqlException ex)
+                {
+                    Console.WriteLine("Error: " + ex.Message.ToString());
+                }
+                finally
+                {
+                    Console.WriteLine("Presiona cualquier tecla...");
+                    Console.ReadLine();
+                }
+            }
+        }
+    }
+}
