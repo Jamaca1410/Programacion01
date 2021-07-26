@@ -15,15 +15,38 @@ namespace FinalBono
                 try
                  
                 {
+                    //entrada de datos
+                    Console.WriteLine("ID estudiante:");
+                    int Estudianteid=int.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Nombre estudiante:");
+                    string Nombre=Console.ReadLine();
+
+                    Console.WriteLine("Apellido estudiante:");
+                    string Apellido=Console.ReadLine();
+
+                    Console.WriteLine("Sexo estudiante:");
+                    char Sexo=Convert.ToChar(Console.ReadLine());
+
+                    Console.WriteLine("Direccion estudiante:");
+                    string Direccion=Console.ReadLine();
+                    
+                    string query = "insert into Estudiante values(" + Estudianteid + ", '"+Nombre+ "', '"+Apellido+ "', '"+Sexo+ "', '"+Direccion+"') ";
+                    Console.WriteLine(query);
+                    //iniciar coneccion a base de datso
                     sqlcon.Open();
                     Console.WriteLine("Connection done " + sqlcon.State.ToString() + Environment.NewLine);
-
+                    //
+                    MySqlCommand cmd = new MySqlCommand(query,sqlcon);
+                    int result = cmd.ExecuteNonQuery();
+                    Console.WriteLine(result + "record/s inserted in Estudiante table");
+                    //
                     MySqlCommand command = sqlcon.CreateCommand();
                     command.CommandType = System.Data.CommandType.Text;
                     command.CommandText = "Select * from Estudiante";
 
                     MySqlDataReader reader = command.ExecuteReader();
-                    var data = "[Estudianteid]\t[Nombre]\t[Apellido]\t[Sexo]\t[Direccion]\n";
+                    var data = "[Estudianteid]\t\t[Nombre]\t[Apellido]\t[Sexo]\t[Direccion]\n";
 
                     
                     if(reader.HasRows)
