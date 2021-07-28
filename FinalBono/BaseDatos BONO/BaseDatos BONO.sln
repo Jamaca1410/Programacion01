@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDatos BONO", "BaseDatos BONO.csproj", "{84954212-63A2-4A90-ADE6-5B570BDAC1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84954212-63A2-4A90-ADE6-5B570BDAC1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84954212-63A2-4A90-ADE6-5B570BDAC1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84954212-63A2-4A90-ADE6-5B570BDAC1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84954212-63A2-4A90-ADE6-5B570BDAC1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423A6687-CF56-474F-9C96-F8106DA0AC1E}
+	EndGlobalSection
+EndGlobal

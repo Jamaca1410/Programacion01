@@ -1,0 +1,33 @@
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BaseDatos BONO.exe
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BaseDatos BONO.deps.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BaseDatos BONO.runtimeconfig.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BaseDatos BONO.runtimeconfig.dev.json
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BaseDatos BONO.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BaseDatos BONO.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.csprojAssemblyReference.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.AssemblyInfoInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.AssemblyInfo.cs
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.csproj.CoreCompileInputs.cache
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.csproj.CopyComplete
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.dll
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.pdb
+C:\Users\Javier Carrillo\Desktop\PUCMM ITT\AÑO 2\Periodo 3\P1\Programacion01\FinalBono\BaseDatos BONO\obj\Debug\netcoreapp3.1\BaseDatos BONO.genruntimeconfig.cache
