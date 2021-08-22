@@ -10,10 +10,10 @@ namespace FinalBono
         static MySqlConnection sqlcon = new MySqlConnection(connection);
         static void Main(string[] args)
         {
-            
+
             using (sqlcon)
             {
-                inicio: try
+            inicio: try
 
                 {
                     Console.WriteLine("Connectando a MySql");
@@ -26,7 +26,7 @@ namespace FinalBono
                     string Nombre = Console.ReadLine();
                     if (Nombre == string.Empty || Nombre.Length > 25)
                         goto inicio;
-                   
+
                     Console.WriteLine("Apellido estudiante:");
                     string Apellido = Console.ReadLine();
                     if (Apellido == string.Empty || Apellido.Length > 25)
@@ -81,7 +81,7 @@ namespace FinalBono
                 {
                     Console.WriteLine("Error: " + ex.Message.ToString());
                 }
-                catch(FormatException ee)
+                catch (FormatException ee)
                 {
                     Console.WriteLine("Error: " + ee.Message);
                     goto inicio;
